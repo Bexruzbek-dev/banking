@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "737217611004",
+    "project_id": "telegram-33099",
+    "storage_bucket": "telegram-33099.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737217611004:android:145e11880d25d8f9fc4379",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_with_mk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPhDSlwT4v8SVNv5ACL1s9E3uH-IdBcy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737217611004:android:c5c0ae7bfebee6d5fc4379",
+        "android_client_info": {
+          "package_name": "com.example.even"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPhDSlwT4v8SVNv5ACL1s9E3uH-IdBcy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737217611004:android:81ed03a364b577acfc4379",
+        "android_client_info": {
+          "package_name": "com.example.events_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPhDSlwT4v8SVNv5ACL1s9E3uH-IdBcy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737217611004:android:e1407a27abc293e1fc4379",
+        "android_client_info": {
+          "package_name": "com.example.exam_4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPhDSlwT4v8SVNv5ACL1s9E3uH-IdBcy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737217611004:android:ea837bae9f9137d7fc4379",
+        "android_client_info": {
+          "package_name": "com.example.simple_bank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPhDSlwT4v8SVNv5ACL1s9E3uH-IdBcy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737217611004:android:76718465f65f5b61fc4379",
+        "android_client_info": {
+          "package_name": "com.example.tadbiroemas_78"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPhDSlwT4v8SVNv5ACL1s9E3uH-IdBcy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737217611004:android:ef3baf58ce705371fc4379",
+        "android_client_info": {
+          "package_name": "com.example.telegram_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPhDSlwT4v8SVNv5ACL1s9E3uH-IdBcy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
